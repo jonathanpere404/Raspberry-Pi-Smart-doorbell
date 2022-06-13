@@ -8,7 +8,7 @@ I had problems with the new version of Raspberry Pi OS "Bullseye" at the time. T
 ## Before you get it to working
 This Smart Doorbell system works with Telegrambot. First you need to get BOT and (Token/API key) to use it.
 
-## You need to install them aswell
+## You need to install them as well
 ```
 sudo apt-get install python-opencv
 
@@ -16,4 +16,6 @@ sudo apt-get install libatlas-base-dev libjasperdev libqtgui4 python3-pyqt5 libq
 libgstreamer1.0-dev libavcodec58 libavformat58 libswscale5
 
 sudo pip3 install pyTelegramBotAPI
+
+sudo pip3 install --upgrade pyTelegramBotAPI
 ```
