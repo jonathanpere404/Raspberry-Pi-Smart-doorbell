@@ -19,3 +19,8 @@ sudo pip3 install pyTelegramBotAPI
 
 sudo pip3 install --upgrade pyTelegramBotAPI
 ```
+Pynput is needed for the cursor position check. At least it worked on my touch screen
+#RC070S  #7Inch #1024*600 #IPS #60fps #speaker #HDMI&USB #165*120mm #235g
+```
+sudo pip3 install pynput
+```
