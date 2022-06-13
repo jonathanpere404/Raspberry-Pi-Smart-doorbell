@@ -39,4 +39,4 @@ git clone https://github.com/jonathanpere404/Raspberry-Pi-Smart-doorbell.git
 
 When you have all done you need also to figure out what is your telegram chat ID.
 
-7. Replace Telegram (Token/API key) and (chat ID) in 
+7. Replace Telegram (Token/API key = line 16) and (chat ID = line ) in face-detection.py
