@@ -6,7 +6,7 @@ Backround to get it working.
 I had problems with the new version of Raspberry Pi OS "Bullseye" at the time. The problems was with OpenCV installation, speakers and touchscreen. I could not get them to work. Maby Bullsey works better now, but i choose older "Buster" operating system for this project.
 
 ## Before you get it to working
-This Smart Doorbell system works with Telegrambot. First you need to get BOT and (Token/API key) to use it.
+This Smart Doorbell system works with Telegrambot. First you need to get the BOT and (Token/API key) to use it.
 
 ## You need to install them as well
 1. Install OpenCV
