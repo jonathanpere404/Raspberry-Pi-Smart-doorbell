@@ -32,3 +32,7 @@ sudo pip3 install --upgrade pyTelegramBotAPI
 ```
 sudo pip3 install pynput
 ```
+6. Clone code
+```
+git clone
+```
