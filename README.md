@@ -44,3 +44,8 @@ When you have all done you need also to figure out what is your telegram chat ID
 bot = telebot.TeleBot("19*****:************QM") #<-------BUT YOUR TELEGRAM TOKEN/API KEY HERE
 chat_id = 1*********5 # <-------BUT YOUR TELEGRAM CAHT ID HERE
 ```
+
+After that you should be all set. Just run the program.
+```
+python3 face-detection.py
+```
