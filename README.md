@@ -18,8 +18,8 @@ sudo apt-get install python-opencv
 ```
 2. Install all dependencies for OpenCV
 ```
-sudo apt-get install libatlas-base-dev libjasperdev libqtgui4 python3-pyqt5 libqt4-test libilmbase-dev libopenexr-dev
-libgstreamer1.0-dev libavcodec58 libavformat58 libswscale5
+sudo apt-get install libatlas-base-dev libjasper-dev libqtgui4 python3-pyqt5 libqt4-test libilmbase-dev libopenexr-dev 
+sudo apt-get install libgstreamer1.0-dev libavcodec58 libavformat58 libswscale5
 ```
 3. Inastall telegrambot API
 ```
