@@ -58,9 +58,9 @@ async def main():
             #Notify that it found face
             if True in rectangel:
                 if (secound_pic == 0):
-                    blurry_image_cooldown = datetime.datetime.now() + datetime.timedelta(seconds=2)
+                    skip_first_image = datetime.datetime.now() + datetime.timedelta(seconds=2)
                     secound_pic = 1
-                if (datetime.datetime.now() >= blurry_image_cooldown):
+                if (datetime.datetime.now() >= skip_first_image):
                     if (pic_save_cooldown == 0):
                         img_name = "dataset/"+ name +"/image_{}.jpg".format(img_counter)   #Location for images
                         cv2.imwrite(img_name, img)       #Write image
